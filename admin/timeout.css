@@ -1,0 +1,12 @@
+ .iframe{
+    max-width: fit-content;
+ }
+ .flex-top{
+    display: flex;
+    justify-content: space-between;
+ }
+ .flex-top h3 {
+    text-align: center;
+    
+ }
+ 
